@@ -77,6 +77,7 @@ public class Coleccciones {
         System.out.println(frutaCalorias);
         System.out.println(frutaCalorias.get("limon"));
         System.out.println(frutaCalorias.entrySet());
+        System.out.println("Existe la llave 2?: "+frutaCalorias.containsKey(2)); //devuelve boolean
         //frutaCalorias.remove("manzana"); se elimina a través de la llave
         System.out.println("El valor de la llave naranja es: "+ frutaCalorias.get("naranja"));
 

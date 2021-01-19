@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6a8a8c-046d-4575-adff-617e853dde41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clase7/UltimosMovimientos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clase4/Matrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clase4/TresEnRaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase7/cursos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clase7/Coleccciones2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clase7/Coleccciones2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Clase7/LibreriaCalificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clase7/LibretaCalificaciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase1/CadenaTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase1/CadenaTexto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase5/Calificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase5/Calificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Módulo1/clase6/Coleccciones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Módulo1/clase6/Coleccciones.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/clase6/Coleccciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase6/Coleccciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase6/TesterForma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase6/TesterForma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase6/Zoologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase6/Zoologico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,20 +46,7 @@
       <recent name="clase5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UltimosMovimientos">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clase7.ArrayList" />
-      <module name="Módulo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Clase7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.cursos">
     <configuration name="Coleccciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clase6.Coleccciones" />
       <module name="Módulo1" />
@@ -134,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase7.cursos" />
+      <module name="Módulo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cursos" />
         <item itemvalue="Application.UltimosMovimientos" />
         <item itemvalue="Application.ListaAlumnos" />
         <item itemvalue="Application.Coleccciones2" />
         <item itemvalue="Application.Coleccciones" />
-        <item itemvalue="Application.ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +161,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1611071198567" />
-    <state width="1323" height="98" key="GridCell.Tab.0.bottom" timestamp="1611076785377">
+    <state width="1323" height="98" key="GridCell.Tab.0.bottom" timestamp="1611096715991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
-    <state width="1323" height="98" key="GridCell.Tab.0.center" timestamp="1611076785377">
+    <state width="1323" height="98" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611096715991" />
+    <state width="1323" height="98" key="GridCell.Tab.0.center" timestamp="1611096715990">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
-    <state width="1323" height="98" key="GridCell.Tab.0.left" timestamp="1611076785377">
+    <state width="1323" height="98" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611096715990" />
+    <state width="1323" height="98" key="GridCell.Tab.0.left" timestamp="1611096715990">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
-    <state width="1323" height="98" key="GridCell.Tab.0.right" timestamp="1611076785377">
+    <state width="1323" height="98" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611096715990" />
+    <state width="1323" height="98" key="GridCell.Tab.0.right" timestamp="1611096715991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
+    <state width="1323" height="98" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611096715991" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1611072158880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
