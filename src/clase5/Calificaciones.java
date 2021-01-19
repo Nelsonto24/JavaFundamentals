@@ -62,10 +62,8 @@ public class Calificaciones {
     public static int getMenorCalificacion(){
         int menorCalificacion=calificaciones[0];
         for(int calificacion:calificaciones){
-        /*for(int i=0;i<calificaciones.length;i++){
-            int calificacion=calificaciones[i];*/
             if(calificacion<menorCalificacion)
-                menorCalificacion=calificacion;
+            menorCalificacion=calificacion;
         }
         return menorCalificacion;
     }

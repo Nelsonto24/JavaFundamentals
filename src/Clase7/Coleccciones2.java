@@ -27,6 +27,9 @@ public class Coleccciones2 {
             for(String item:frutas){ //el diamante se coloca al instanciar por el tipo de elemento, si no se coloca, lo asigna como clase object
                 System.out.println(item); //2da forma de recorrer la colección
             }
+            /*for(int j=0;j<frutas.size();j++){
+                System.out.println(frutas.get(j));
+            }*/
             frutas.forEach(x -> System.out.println(x)); // expresión landa, 3era forma de recorrer la colección
             frutas.forEach(System.out::println); //mismo resultado que en la línea anterior pero con otra forma de expresión
     }
@@ -63,6 +66,7 @@ public class Coleccciones2 {
         frutaCalorias.put("platano",105);
         frutaCalorias.put("naranja",45);
         frutaCalorias.put("limon",17);
+        //frutaCalorias.clear();
         System.out.println(frutaCalorias.size());
         System.out.println(frutaCalorias);
         System.out.println(frutaCalorias.get("limon"));

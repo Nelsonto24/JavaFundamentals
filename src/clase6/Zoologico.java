@@ -1,7 +1,5 @@
 package clase6;
 
-import clase5.Persona;
-
 public class Zoologico {
     public static void main(String[] args) {
         Perro firulais = new Perro();

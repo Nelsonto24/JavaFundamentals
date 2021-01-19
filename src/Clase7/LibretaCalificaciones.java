@@ -2,7 +2,7 @@ package Clase7;
 
 import java.util.Map;
 
-public class LibreriaCalificaciones {
+public class LibretaCalificaciones {
     public static void main(String[] args) {
         Map<String, Integer> libretaCalificaciones=ResultadoPruebas.getCalificaiconesOriginales();
         Map<String, Integer> calificacionesRecuperadas=ResultadoPruebas.getCalificaiconesRecuperadas();

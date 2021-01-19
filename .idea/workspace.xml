@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6a8a8c-046d-4575-adff-617e853dde41" name="Default Changelist" comment="" />
+    <list default="true" id="3d6a8a8c-046d-4575-adff-617e853dde41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clase7/UltimosMovimientos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clase4/Matrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clase4/TresEnRaya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clase7/Coleccciones2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clase7/Coleccciones2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clase7/LibreriaCalificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Clase7/LibretaCalificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clase1/CadenaTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase1/CadenaTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clase5/Calificaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase5/Calificaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clase6/Coleccciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase6/Coleccciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clase6/TesterForma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase6/TesterForma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clase6/Zoologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clase6/Zoologico.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +28,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XWsmVAWaWcI9Zu8jlFTxIZdFtu" />
   <component name="ProjectViewState">
@@ -28,6 +45,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RestAssured" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -36,13 +55,13 @@
       <recent name="clase5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Coleccciones">
-    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase6.Cliente" />
+  <component name="RunManager" selected="Application.UltimosMovimientos">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase7.ArrayList" />
       <module name="Módulo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase6.*" />
+          <option name="PATTERN" value="Clase7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Coleccciones2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase7.Coleccciones2" />
+      <module name="Módulo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DoWhileSumarNumeros" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="clase2.DoWhileSumarNumeros" />
       <module name="Módulo1" />
@@ -76,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestearHerencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase5.TestearHerencia" />
+    <configuration name="ListaAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase7.ListaAlumnos" />
       <module name="Módulo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase5.*" />
+          <option name="PATTERN" value="Clase7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,25 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesterForma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase6.TesterForma" />
+    <configuration name="UltimosMovimientos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase7.UltimosMovimientos" />
       <module name="Módulo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clase6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zoologico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clase6.Zoologico" />
-      <module name="Módulo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="clase6.*" />
+          <option name="PATTERN" value="Clase7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UltimosMovimientos" />
+        <item itemvalue="Application.ListaAlumnos" />
+        <item itemvalue="Application.Coleccciones2" />
         <item itemvalue="Application.Coleccciones" />
-        <item itemvalue="Application.Cliente" />
-        <item itemvalue="Application.Zoologico" />
-        <item itemvalue="Application.TesterForma" />
-        <item itemvalue="Application.TestearHerencia" />
+        <item itemvalue="Application.ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -139,74 +158,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1586570058969">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.724@0.0.1366.724" timestamp="1586570058969" />
-    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593847076532">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1611071210682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1593847076532" />
-    <state x="479" y="246" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585404485365">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state x="479" y="246" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.724@0.0.1366.724" timestamp="1585404485365" />
-    <state x="413" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585723952953">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state x="413" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.724@0.0.1366.724" timestamp="1585723952953" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom" timestamp="1587709425569">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1611071210682" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611072882263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.724@0.0.1366.724" timestamp="1587226893252" />
-    <state width="1322" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587709425569" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center" timestamp="1587709425569">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1611072882263" />
+    <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1611071198567">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.724@0.0.1366.724" timestamp="1587226893252" />
-    <state width="1322" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587709425569" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left" timestamp="1587709425569">
+    <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1611071198567" />
+    <state width="1323" height="98" key="GridCell.Tab.0.bottom" timestamp="1611076785377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.724@0.0.1366.724" timestamp="1587226893252" />
-    <state width="1322" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587709425569" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right" timestamp="1587709425569">
+    <state width="1323" height="98" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
+    <state width="1323" height="98" key="GridCell.Tab.0.center" timestamp="1611076785377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.724@0.0.1366.724" timestamp="1587226893252" />
-    <state width="1322" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587709425569" />
-    <state width="1322" height="215" key="GridCell.Tab.1.bottom" timestamp="1585439238522">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state width="1322" height="215" key="GridCell.Tab.1.bottom/0.0.1366.724@0.0.1366.724" timestamp="1585439238522" />
-    <state width="1322" height="215" key="GridCell.Tab.1.center" timestamp="1585439238521">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state width="1322" height="215" key="GridCell.Tab.1.center/0.0.1366.724@0.0.1366.724" timestamp="1585439238521" />
-    <state width="1322" height="215" key="GridCell.Tab.1.left" timestamp="1585439238521">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state width="1322" height="215" key="GridCell.Tab.1.left/0.0.1366.724@0.0.1366.724" timestamp="1585439238521" />
-    <state width="1322" height="215" key="GridCell.Tab.1.right" timestamp="1585439238521">
-      <screen x="0" y="0" width="1366" height="724" />
-    </state>
-    <state width="1322" height="215" key="GridCell.Tab.1.right/0.0.1366.724@0.0.1366.724" timestamp="1585439238521" />
-    <state x="65" y="0" key="new project wizard" timestamp="1587962841179">
+    <state width="1323" height="98" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
+    <state width="1323" height="98" key="GridCell.Tab.0.left" timestamp="1611076785377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.724@0.0.1366.724" timestamp="1587226888983" />
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587962841179" />
-    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586499173121">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1323" height="98" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
+    <state width="1323" height="98" key="GridCell.Tab.0.right" timestamp="1611076785377">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.724@0.0.1366.724" timestamp="1586499173121" />
-    <state x="339" y="156" key="run.anything.popup" timestamp="1585442402507">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1323" height="98" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611076785377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1611072158880">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="156" key="run.anything.popup/0.0.1366.724@0.0.1366.724" timestamp="1585442402507" />
-    <state x="346" y="49" width="672" height="675" key="search.everywhere.popup" timestamp="1586154058382">
-      <screen x="0" y="0" width="1366" height="724" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611072158880" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1611072158880">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="675" key="search.everywhere.popup/0.0.1366.724@0.0.1366.724" timestamp="1586154058382" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1611072158880" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1611072158880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1611072158880" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1611072158880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1611072158880" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1610732010034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610732010034" />
   </component>
 </project>

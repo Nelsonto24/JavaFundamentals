@@ -14,6 +14,6 @@ public class CadenaTexto {
             System.out.println(sCadena1 + " y " + sCadena3 + " son IGUALES");
         else
             System.out.println(sCadena1 + " y " + sCadena3 + " son DIFERENTES");
-
     }
+
 }
